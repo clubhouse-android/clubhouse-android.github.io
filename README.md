@@ -3,6 +3,8 @@ Android releases of Clubhouse App
 
 This is based on the great work of grishka: https://github.com/grishka/Houseclub
 
+Download the latest version at https://clubhouse-android.github.io
+
 I've added multiple new features:
 
 - multi-language
