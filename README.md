@@ -12,6 +12,8 @@ I've added multiple new features:
 - fixed some issues
 - ...
 
-## Please create a issue for feature request. 
+![ ](https://github.com/clubhouse-android/clubhouse-android.github.io/blob/main/screenshot.jpg?raw=true)
+
+## Please create an issue for feature request. 
 
 ## Note: I am not affiliated with anyone or any company.
